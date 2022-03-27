@@ -1,7 +1,8 @@
 ---
-title: recordatorio
+layout: page
+title: "recordatorio"
+permalink: /recordatorio
 ---
-
 
 # ⚠️ advertensia ⚠️
 
