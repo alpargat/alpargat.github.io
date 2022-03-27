@@ -1,3 +1,8 @@
+---
+title: recordatorio
+---
+
+
 # ⚠️ advertensia ⚠️
 
 recuerda que este navegador es para usarlo __estrictamente como último recurso__ cuando los demás no van en una página web puñetera concreta.
